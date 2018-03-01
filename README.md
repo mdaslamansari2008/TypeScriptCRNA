@@ -8,5 +8,12 @@ cd TypeScriptCRNA
 Make sure you have tslint and typescript globally installed.
 
 ```
+npm install
+```
+```
+yarn run ios
+```
+OR
+```
 npm start
 ```
